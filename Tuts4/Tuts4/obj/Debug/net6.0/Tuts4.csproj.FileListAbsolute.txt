@@ -1,0 +1,15 @@
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.csproj.AssemblyReference.cache
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.AssemblyInfoInputs.cache
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.AssemblyInfo.cs
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.csproj.CoreCompileInputs.cache
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\bin\Debug\net6.0\Tuts4.exe
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\bin\Debug\net6.0\Tuts4.deps.json
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\bin\Debug\net6.0\Tuts4.runtimeconfig.json
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\bin\Debug\net6.0\Tuts4.dll
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\bin\Debug\net6.0\Tuts4.pdb
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.dll
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\refint\Tuts4.dll
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.pdb
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\Tuts4.genruntimeconfig.cache
+C:\Users\JR\Desktop\Csharp\Tuts4\Tuts4\obj\Debug\net6.0\ref\Tuts4.dll
