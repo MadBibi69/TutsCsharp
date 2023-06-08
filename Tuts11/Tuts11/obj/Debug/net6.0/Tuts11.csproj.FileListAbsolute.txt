@@ -1,0 +1,15 @@
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.csproj.AssemblyReference.cache
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.AssemblyInfoInputs.cache
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.AssemblyInfo.cs
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.csproj.CoreCompileInputs.cache
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\bin\Debug\net6.0\Tuts11.exe
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\bin\Debug\net6.0\Tuts11.deps.json
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\bin\Debug\net6.0\Tuts11.runtimeconfig.json
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\bin\Debug\net6.0\Tuts11.dll
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\bin\Debug\net6.0\Tuts11.pdb
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.dll
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\refint\Tuts11.dll
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.pdb
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\Tuts11.genruntimeconfig.cache
+C:\Users\JR\Desktop\Csharp\Tuts11\Tuts11\obj\Debug\net6.0\ref\Tuts11.dll
